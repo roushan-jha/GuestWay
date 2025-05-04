@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@theme {
+  --font-primary: "Satoshi", "sans-serif";
+
+  --color-primary-dark: #3c3f50;
+  --color-secondary-dark: #262833;
+  --color-primary-green: #18d777;
+  --color-secondary-green: #67eeaa;
+}
